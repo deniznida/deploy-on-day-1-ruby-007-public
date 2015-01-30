@@ -24,7 +24,7 @@ resources:
 
 Welcome to Flatiron! Every semester, a student index page is created. It looks something like [this](http://students.flatironschool.com/). Links from this page go to individual profiles, which look like [this](http://students.flatironschool.com/students/lauraconwill.html).
 
-Your site will be live on [ruby007.students.flatironschool.com](ruby006.students.flatironschool.com)
+Your site will be live on [ruby007.students.flatironschool.com](ruby007.students.flatironschool.com)
 
 ## Assignment
 
